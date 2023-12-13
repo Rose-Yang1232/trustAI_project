@@ -1,2 +1,2 @@
-# trustAI_controller
-this repo contains the extracted .tgz file 
+# trustAI_simulink
+this is the repo with .slx and .slxc files

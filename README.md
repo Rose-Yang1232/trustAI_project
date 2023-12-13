@@ -1,2 +1,2 @@
-# trustAI_project
-this is the supporting code for trustAi group final project.
+# trustAI_controller
+this repo contains the extracted .tgz file 
